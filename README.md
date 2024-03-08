@@ -31,25 +31,25 @@ Currently this is designed for a Voron 2.4 350mm in mind.
 
 ## BOM
 
-2x 5015 fans
-8x 6x3mm (diameter x thickness) neodymium magnets
-5x M3x5x4mm “standard” Voron heatsets" 
-2x M3x15mm SHCB
-3x M3 roll-in T-nut
-3x M3x30mm SHCB
-3x M3x25mm SHCB
-1x HEPA Filter (40x105x12mm)
+- 2x 5015 fans
+- 8x 6x3mm (diameter x thickness) neodymium magnets
+- 5x M3x5x4mm “standard” Voron heatsets" 
+- 2x M3x15mm SHCB
+- 3x M3 roll-in T-nut
+- 3x M3x30mm SHCB
+- 3x M3x25mm SHCB
+- 1x HEPA Filter (40x105x12mm)
 
 
 
 Optional (if planning to install VOC sensor)
 
-1x M3x5x4mm “standard” Voron heatsets" 
-1x M3x6mm BHCB
+- 1x M3x5x4mm “standard” Voron heatsets" 
+- 1x M3x6mm BHCB
 
 OR
 
-1x M2x10mm self-tapping screw
+- 1x M2x10mm self-tapping screw
 
 
 
