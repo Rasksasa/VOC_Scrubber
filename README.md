@@ -23,6 +23,12 @@ Fans used to pull air through the filter rather than push.
 
 Currently this is designed for a Voron 2.4 350mm in mind. 
 
+![](Images/TopISO.JPG)
+
+![](Images/Front.JPG)
+
+![](Images/Side.JPG)
+
 ## BOM
 
 2x 5015 fans
@@ -32,6 +38,7 @@ Currently this is designed for a Voron 2.4 350mm in mind.
 3x M3 roll-in T-nut
 3x M3x30mm SHCB
 3x M3x25mm SHCB
+1x HEPA Filter (40x105x12mm)
 
 
 
@@ -46,7 +53,7 @@ OR
 
 
 
-## To do/Wishlist:
+## To do & Wishlist:
 
 Slots for 1mm thick foam tape where required to keep air from leaking/lost of pressure
 Validate overall fit & finish especially for the VOC sensor + connector type/size to be used
