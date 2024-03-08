@@ -9,7 +9,7 @@ NOTE: This is an untested version and is only for design review! If you do decid
 
 <<UNTESTED! FOR DESIGN REVIEW ONLY!>> 
 
-##Introduction
+## Introduction
 
 If you are like me and had a chance (or did a stupid thing of) sticking your head above the print bed while the printer is running; two things will hit you - heat from the rising air and fumes from the print. Almost all printer filters open source or commercial does the same thing however, they are located near the print bed pulling air from the bottom. However when printing, the hot surface of the bed causes convective air currents to raise from the bed, up and back down the slides of the wall of the printer again. You can see this effect by pushing “wet” filament out a hot nozzle and see where the steam goes - and it is not downwards. So it is rather odd that almost all air filters are designed with the filters drawing air in from the lowest point in the print area/chamber. 
 
@@ -23,7 +23,7 @@ Fans used to pull air through the filter rather than push.
 
 Currently this is designed for a Voron 2.4 350mm in mind. 
 
-##BOM
+## BOM
 
 2x 5015 fans
 8x 6x3mm (diameter x thickness) neodymium magnets
@@ -46,7 +46,7 @@ OR
 
 
 
-##To do/Wishlist:
+## To do/Wishlist:
 
 Slots for 1mm thick foam tape where required to keep air from leaking/lost of pressure
 Validate overall fit & finish especially for the VOC sensor + connector type/size to be used
