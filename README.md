@@ -60,3 +60,4 @@ OR
 - Investigate impact on input shaping
 - Validate print settings for the parts (i.e. if standard Voron print settings are sufficient)
 - Investigate VOC sensor options (i.e. SGP40 or ENS160)
+- "Slim" version to minimise print height loss
