@@ -1,4 +1,4 @@
-# VOC_Scrubber
+# VOC Scrubber
 VOC remover designed to remove fumes where they are most likely to be; right above the print bed for the Voron 2.4
 
 
