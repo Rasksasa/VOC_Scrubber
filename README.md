@@ -3,7 +3,7 @@ VOC remover designed to remove fumes where they are most likely to be; right abo
 
 
 
-##<<UNTESTED! FOR DESIGN REVIEW ONLY!>>
+## <<UNTESTED! FOR DESIGN REVIEW ONLY!>>
 
 NOTE: This is an untested version and is only for design review! If you do decide to build this and it does not fit, don't say I didn't warn you. 
 
