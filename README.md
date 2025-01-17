@@ -1,11 +1,11 @@
 # VOC Scrubber
-VOC remover designed to remove fumes where they are most likely to be; right above the print bed with a focus for the Voron 2.4
+VOC remover designed to remove fumes where they are most likely to be - right above the print bed.
 
 
 
 ## Introduction
 
-If you are like me and had a chance (and a rather stupid one) sticking your head above the print bed while the printer is running; two things will hit you - heat from the rising air and fumes from the print. Almost all current printer filters, open source or commercial, does the same thing however; they are designed to be located near the print bed pulling air from the bottom. However when printing, the hot surface of the bed causes convective air currents to raise from the bed, up and back down the slides of the wall of the printer again (back to simple school level physics). You can see these vapour rise when pushing “wet” filament out a hot nozzle. So it is rather odd that almost all air filters are designed with the filters drawing air in from the lowest point in the print area/chamber. 
+If you are like me and had a chance (and a rather stupid one) of sticking your head above the print bed while the printer is running; two things will hit you - heat from the rising air and fumes from the print. Almost all current printer filters, open source or commercial, does the same thing however; they are designed to be located near the print bed pulling air from the bottom. However when printing, the hot surface of the bed causes convective air currents to raise from the bed, up and back down the slides of the wall of the printer again (back to simple school level physics). You can see these vapour rise when pushing “wet” filament out a hot nozzle. So it is rather odd that almost all air filters are designed with the filters drawing air in from the lowest point in the print area/chamber. 
 
 This  “VOC Scrubber” is intended to address just that problem by filtering hot “dirty” air where they are most likely to go; at the top of the enclosed print space. The following are design objective for this filter: 
 
@@ -13,7 +13,7 @@ This  “VOC Scrubber” is intended to address just that problem by filtering h
 - Intentially use slow air speed to maximise collision of VOC particles with the carbon pallets. 
 - 5015 blower fans to minimise the filter size while having generally higher pressure differential to pull air in 
 - Easy to source generic 40x105mm HEPA filter available from AliE to filter larger particles
-- Allowance to install standard VOC sensors using either a M2 or M3 screws
+- Allowance to install standard VOC sensors using M3 screws
 - Foam seals at joints and connections to minimise and effectively guide the air flow
 
 ![](Images/TopISO.JPG)
@@ -76,10 +76,10 @@ The build chamber still needs to be sufficiently well sealed to ensure gases do 
 - Physical lock mechanism to allow easier and more secure cartridge replacement
 - Provide solution to where electronics/PCB controller can be positioned 
 
-~~- Validate print settings for the parts (i.e. if standard Voron print settings are sufficient)~~
-~~- Investigate VOC sensor options (i.e. SGP40 or ENS160)~~
-~~- Slots for 1mm thick foam tape where required to keep air from leaking/lost of pressure~~
-~~- Validate overall fit & finish especially for the VOC sensor + connector type/size to be used~~
-~~- Validate that 4 pairs of magnets are sufficient to hold the carbon pallet canister in place~~
-~~- Investigate impact on input shaping~~
-~~- "Slim" version to minimise print height loss~~
+~~ - Validate print settings for the parts (i.e. if standard Voron print settings are sufficient)~~
+~~ - Investigate VOC sensor options (i.e. SGP40 or ENS160)~~
+~~ - Slots for 1mm thick foam tape where required to keep air from leaking/lost of pressure~~
+~~ - Validate overall fit & finish especially for the VOC sensor + connector type/size to be used~~
+~~ - Validate that 4 pairs of magnets are sufficient to hold the carbon pallet canister in place~~
+~~ - Investigate impact on input shaping~~
+~~ - "Slim" version to minimise print height loss~~
