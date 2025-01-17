@@ -76,10 +76,10 @@ The build chamber still needs to be sufficiently well sealed to ensure gases do 
 - Physical lock mechanism to allow easier and more secure cartridge replacement
 - Provide solution to where electronics/PCB controller can be positioned 
 
-~~ - Validate print settings for the parts (i.e. if standard Voron print settings are sufficient)~~
-~~ - Investigate VOC sensor options (i.e. SGP40 or ENS160)~~
-~~ - Slots for 1mm thick foam tape where required to keep air from leaking/lost of pressure~~
-~~ - Validate overall fit & finish especially for the VOC sensor + connector type/size to be used~~
-~~ - Validate that 4 pairs of magnets are sufficient to hold the carbon pallet canister in place~~
-~~ - Investigate impact on input shaping~~
-~~ - "Slim" version to minimise print height loss~~
+-~~Validate print settings for the parts (i.e. if standard Voron print settings are sufficient)~~
+-~~Investigate VOC sensor options (i.e. SGP40 or ENS160)~~
+-~~Slots for 1mm thick foam tape where required to keep air from leaking/lost of pressure~~
+-~~Validate overall fit & finish especially for the VOC sensor + connector type/size to be used~~
+-~~Validate that 4 pairs of magnets are sufficient to hold the carbon pallet canister in place~~
+-~~Investigate impact on input shaping~~
+-~~"Slim" version to minimise print height loss~~
