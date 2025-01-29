@@ -22,6 +22,19 @@ This  “VOC Scrubber” is intended to address just that problem by filtering h
 
 ![](Images/Side.JPG)
 
+![](Images/InstalledAngled.JPG)
+
+![](Images/InstalledFlat.JPG)
+
+
+## Bonus!
+
+It looks like it would fit Tridents too! I unfortunately do not have a Trident but it looks to fit just fine. 
+
+![](Images/Trident.JPG)
+
+![](Images/TridentTop.JPG)
+
 
 ## BOM
 
@@ -72,9 +85,10 @@ The build chamber still needs to be sufficiently well sealed to ensure gases do 
 
 
 ## To do & Wishlist:
-- New cartridge designs with using pogo pin connectors to facilitate VOC sensor installation in the cartridge which provides intake air analysis
-- Physical lock mechanism to allow easier and more secure cartridge replacement
+- New cartridge designs with pogo pin connectors to facilitate VOC sensor installation in the cartridge for air intake analysis
 - Provide solution to where electronics/PCB controller can be positioned 
+- Different HEPA filter that is even easier to source as I notice it being harder to source 40x105mm filters compared to when I first started using them
+
 
 - ~~Validate print settings for the parts (i.e. if standard Voron print settings are sufficient)~~
 - ~~Investigate VOC sensor options (i.e. SGP40 or ENS160)~~
