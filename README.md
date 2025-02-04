@@ -35,7 +35,7 @@ It looks like it would fit Tridents too! I unfortunately do not have a Trident b
 ![](Images/TridentTop.JPG)
 
 
-## BOM
+## BOM (Per unit VOC Scrubber. It is possible to fit 2 on either side of a v2.4 or Trident) 
 
 Required
 
