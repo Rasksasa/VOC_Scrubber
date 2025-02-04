@@ -35,9 +35,9 @@ It looks like it would fit Tridents too! I unfortunately do not have a Trident b
 ![](Images/TridentTop.JPG)
 
 
-## BOM (Per unit VOC Scrubber. It is possible to fit 2 on either side of a v2.4 or Trident) 
+## BOM 
 
-Required
+Required (Per unit VOC Scrubber. It is possible to fit 2 on either side of a v2.4 or Trident) 
 
 - 2x 5015 fans
 - 10x 6x3mm (diameter x thickness) neodymium magnets (N54 rated magnets recommended)
