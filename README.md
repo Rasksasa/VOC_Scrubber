@@ -25,10 +25,11 @@ This “VOC Scrubber” is intended to address just that problem by filtering ho
 
 ![](Images/InstalledFlat.JPG)
 
+The VOC Scrubber has been designed with the Voron v2.x in mind but should fit any similarly designed 3D printers.
 
 ## Bonus!
 
-It looks like it would fit Tridents too! I unfortunately do not have a Trident but it looks to fit just fine. 
+It looks like it would fit Voron Tridents too! I unfortunately do not have a Trident but it looks to fit just fine. 
 
 ![](Images/Trident.JPG)
 
