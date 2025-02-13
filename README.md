@@ -10,8 +10,8 @@ If you are like me and had a chance (and a rather stupid one) of sticking your h
 This “VOC Scrubber” is intended to address just that problem by filtering hot “dirty” air where they are most likely to go; at the top of the enclosed print space. The following are design objective for this filter: 
 
 - Large(r) quantity of carbon pallet to give longer mean-time-between-service of the filter. In this case around 850ml of carbon pallets. 
-- Intentially use slow air speed to maximise collision of VOC particles with the carbon pallets. 
-- 5015 blower fans to minimise the filter size while having generally higher pressure differential to pull air in effeciently.
+- Intential use of slow air speed to maximise collision of VOC particles with the carbon pallets in combination with filter media depth to ensure high VOC removal in a single pass.
+- 5015 blower fans to minimise the filter size while having generally higher pressure differential to pull air in effeciently (surprisingly pulls a lot of air through too).
 - Easy to source generic 40x105mm HEPA filter available from AliE to filter larger particles
 - Foam seals at joints and connections to minimise and effectively guide the air flow
 
@@ -25,10 +25,11 @@ This “VOC Scrubber” is intended to address just that problem by filtering ho
 
 ![](Images/InstalledFlat.JPG)
 
+The VOC Scrubber has been designed with the Voron v2.x in mind but should fit any similarly designed 3D printers.
 
 ## Bonus!
 
-It looks like it would fit Tridents too! I unfortunately do not have a Trident but it looks to fit just fine. 
+It looks like it would fit Voron Tridents too! I unfortunately do not have a Trident but it looks to fit just fine. 
 
 ![](Images/Trident.JPG)
 
@@ -69,7 +70,7 @@ The build chamber still needs to be sufficiently well sealed to ensure gases do 
 
 
 # Update Log 
-## v1.1 (Feb 2024)
+## v1.1 (Feb 2025)
 - Decided to position the air sensors at the exhaust VOC filter which I am in the process of designing hence the sensor on the Scrubber is mooted - removed internal sensor placement and wiring pass throughs.
 - Increased clearence in the Fan Hood between the cartridge and 5015 fans by 1.5(?)mm.
 - Reworked existing wiring pass through of the Fan Cowling for a cleaner design.
