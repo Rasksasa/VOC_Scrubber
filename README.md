@@ -67,13 +67,13 @@ Refer to the CADs for a better idea about the installation.
 ![](Images/Step2.JPG)
 ![](Images/Step3.JPG)
 
-4. Decide which side of your printer you are installing and where the wires will run out from. The "Fan Cowling" has two exit holes to choose from. Wire the fans in parallel. The fans are fit in place for GDSTime fans, but if it is too lose just some foam tape. 
+4. Decide which side of your printer you are installing and where the wires will run out from. The "Fan Cowling" has two exit holes to choose from. Wire the fans in parallel. The fans are fit in place for GDSTime fans, but if it is too lose just use some foam tape to fill out the gap as long as it secures the fan. 
 ![](Images/Step4.JPG)
 
-5. Once you have tested that the fans are working when powered, join the "Fan Cowling" and "Fan Hood" and screw from the back of the "Fan Cowling" using 2x M3x25mm SHCS on the sides and 1x M3x20mm SHCS for the middle.
+5. Once you have tested that the fans are working when powered, join the "Fan Cowling" and "Fan Hood" and screw from the back of the "Fan Cowling" using 2x M3x25mm SHCS on the sides and 1x M3x20mm SHCS at the middle.
 ![](Images/Step5.JPG)
 
-6. Attach the assembly to the 2020 frame using roll-in T-Nuts or Hammer T-Nuts and 3x M3x30mm SHCS. Run your cables and connect accordingly before testing to make sure they work still. 
+6. Attach the assembly to the 2020 frame using roll-in T-Nuts or Hammer T-Nuts and 3x M3x30mm SHCS. Run your cables and connect accordingly and test again to make sure they still work. 
 ![](Images/Step6.JPG)
 
 6a. (Optional) Install the "Frame Brace" using 4x M3x8mm SHCS. It may take some time to align them as you will be installing them from 2 different planes. I mark this as optional as I personally have been running my VOC Scrubbers without them and have no issues in stability. 
