@@ -10,8 +10,8 @@ If you are like me and had a chance (and a rather stupid one) of sticking your h
 This “VOC Scrubber” is intended to address just that problem by filtering hot “dirty” air where they are most likely to go; at the top of the enclosed print space. The "VOC Scrubber" design objectives are: 
 
 - Large(r) quantity of carbon pallet to give longer mean-time-between-service of the filter. In this case around 850ml of carbon pallets. 
-- Intential use of slow air speed to maximise collision of VOC particles with the carbon pallets in combination with filter media depth to ensure high VOC removal in a single pass.
-- 5015 blower fans to minimise the filter size while having generally higher pressure differential to pull air in effeciently across the carbon pallets and HEPA (surprisingly pulls a lot of air through too).
+- Intentional  use of slow air speed to maximise collision of VOC particles with the carbon pallets in combination with filter media depth to ensure high VOC removal in a single pass.
+- 5015 blower fans to minimise the filter size while having generally higher pressure differential to pull air in efficiently across the carbon pallets and HEPA (surprisingly pulls a lot of air through too).
 - Easy to source generic 40x105mm HEPA filter available from AliE to filter larger particles
 - Direct and linear air paths (no vanes or right angles) allowing for maximum air flow with minimal pressure drops.
 
@@ -63,7 +63,7 @@ Refer to the CADs for a better idea about the installation.
 2. Install heatsets into the "Fan Cowling" printed part
 ![](Images/Step1.JPG)
 
-3. Intall heatset into the "Fan Hood" printed part (2 on the lower portion next to the walls in yellow). These are very tricky to install, but if you hold your soldering iron at an angle you will be able to catch the heatsetsand slowly push it into position. Install magnets (in black) - dont forget to check the polarity.
+3. Intall heatset into the "Fan Hood" printed part (2 on the lower portion next to the walls in yellow). These are very tricky to install, but if you hold your soldering iron at an angle you will be able to catch the heatsets and slowly push it into position. Install magnets (in black) - dont forget to check the polarity.
 ![](Images/Step2.JPG)
 ![](Images/Step3.JPG)
 
@@ -102,12 +102,12 @@ The build chamber still needs to be sufficiently well sealed to ensure gases do 
 # Update Log 
 
 ## v1.2 (Mar 2025)
-- Corrected some minor tolerence issues on the Cartridge cover for the FHCS and made the cover just slightly thinner (0.5mm) for clearence issue.
-- Got rid of the Foam insert on the Cartrigde to make it easier to build with less parts. 
+- Corrected some minor tolerance issues on the Cartridge cover for the FHCS and made the cover just slightly thinner (0.5mm) for clearance issue.
+- Got rid of the Foam insert on the Cartridge to make it easier to build with less parts. 
 
 ## v1.1 (Feb 2025)
 - Decided to position the air sensors at the exhaust VOC filter which I am in the process of designing hence the sensor on the Scrubber is mooted - removed internal sensor placement and wiring pass throughs.
-- Increased clearence in the Fan Hood between the cartridge and 5015 fans by 1.5(?)mm.
+- Increased clearance in the Fan Hood between the cartridge and 5015 fans by 1.5(?)mm.
 - Reworked existing wiring pass through of the Fan Cowling for a cleaner design.
 - Other aesthetic cleanups with no performance impact.
 
