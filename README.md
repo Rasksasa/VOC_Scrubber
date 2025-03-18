@@ -1,5 +1,5 @@
 # VOC Scrubber
-VOC remover designed to remove fumes where they are most likely to be - right above the print bed.
+A Volatile Organic Compound filter made to remove 3D printing fumes where they are most likely to be efficiently.
 
 
 
